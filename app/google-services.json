@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "449022719224",
+    "project_id": "instargramapp-d7241",
+    "storage_bucket": "instargramapp-d7241.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449022719224:android:a1b4e8107244584abcf70d",
+        "android_client_info": {
+          "package_name": "com.kang.instargramapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449022719224-ugrhmq322pa2psiu1tn6qtk0kmh25cqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMFCJUlqBIDgljpQ_kGiPg3ZMje7HDUOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449022719224-ugrhmq322pa2psiu1tn6qtk0kmh25cqa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
