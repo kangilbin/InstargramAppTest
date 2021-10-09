@@ -26,6 +26,8 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="@string/email"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
             app:layout_constraintBottom_toTopOf="@+id/password" />
     </com.google.android.material.textfield.TextInputLayout>
 
@@ -37,10 +39,13 @@
         tools:layout_editor_absoluteX="24dp">
 
         <EditText
+            android:inputType="textPassword"
             android:id="@+id/password"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="@string/password"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
             app:layout_constraintBottom_toTopOf="@+id/button1" />
 
     </com.google.android.material.textfield.TextInputLayout>
